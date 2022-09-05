@@ -1,0 +1,6 @@
+export PGUSER='dave'
+export PGHOST='localhost'
+export PGDBCFEPASIVOS='cfepasivos_dev'
+export PGPASSWORD=''
+export PGPORT='5432'
+export PORT='8080'
